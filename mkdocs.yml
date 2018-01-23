@@ -1,0 +1,18 @@
+site_name: GoElites Wiki
+repo_url: https://github.com/y1n/GoElites.Wiki
+pages:
+- Home: index.md
+- Zasady:
+    - Ogólne Zasady: CommunityPrinciples/CommunityGuidelines.md
+    - Zasady Zespołu: CommunityPrinciples/SupportGuidelines.md
+- Jak zacząć:
+    - Instalowanie GoElites: GettingStarted/Installation.md
+    - Możliwości: GettingStarted/Features.md
+    - Dostępne Postacie: GettingStarted/SupportedChampions.md
+    - Najczęściej zadawane pytania: GettingStarted/FrequentlyAskedQuestions.md
+- Wsparcie:
+    - Jak zgłosić problem: Troubleshooting/TroubleshootingReportGuide.md
+    - Problemy ze stroną: Troubleshooting/WebsiteTroubleshooting.md
+    - Problemy z GoElites: Troubleshooting/ApplicationTroubleshooting.md
+    
+theme: readthedocs
