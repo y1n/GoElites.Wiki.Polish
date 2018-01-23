@@ -28,7 +28,7 @@ Proszę się zapoznać z tymi zasadami przed używaniem forum. Jeśli zaobserwow
 - Absolutny zakaz postowania czyichś danych personalnych bez zgody Moderatora+
 - Modernizacja może wlepić odpowiednią karę w zależności swojego "widzi mi się". 
 
-**ChatBox Rules** 
+**Zasady ChatBoxa** 
 
 - Wszystkie zasady wymienione wyżej obowiązują nadal. 
 - Nie róbcie żadnych e-dram na czacie. 
