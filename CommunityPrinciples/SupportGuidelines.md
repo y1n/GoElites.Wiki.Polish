@@ -1,4 +1,4 @@
-**Disclaimer!** Poniższy artykuł nie jest wymogiem z którym normalny użytkownik musi się zapoznać, jest on głównie dla ekipy. Jest to głównie nasz punkt widzenia na relacje i traktowanie naszych klientów.
+**Disclaimer!** Poniższy artykuł nie jest wymogiem z którym normalny użytkownik musi się zapoznać, jest on głównie dla ekipy. Jest to nasz punkt odniesienia w stosunku do relacji i traktowania naszych klientów.
 
 ---
 
