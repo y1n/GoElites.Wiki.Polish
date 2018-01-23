@@ -5,80 +5,80 @@
 ### ADC
 | Nazwa postaci | Link do forum |
 |--|--|
-| Ashe | [рџ“њ][Ashe] |
-| Caitlyn | [рџ“њ][Caitlyn] |
-| Corki | [рџ“њ][Corki] |
-| Draven | [рџ“њ][Draven] |
-| Ezreal | [рџ“њ][Ezreal] |
-| Graves | [рџ“њ][Graves] |
-| Jhin | [рџ“њ][Jhin] |
-| Jinx | [рџ“њ][Jinx] |
-| Kalista | [рџ“њ][Kalista] |
-| Kog`Maw | [рџ“њ][KogMaw] |
-| Lucian | [рџ“њ][Lucian] |
-| Miss Fortune | [рџ“њ][Miss Fortune] |
-| Sivir | [рџ“њ][Sivir] |
-| Tristana | [рџ“њ][Tristana] |
-| Twitch | [рџ“њ][Twitch] |
-| Varus | [рџ“њ][Varus] |
-| Vayne | [рџ“њ][Vayne] |
-| Xayah | [рџ“њ][Xayah] |
+| Ashe | [📜][Ashe] |
+| Caitlyn | [📜][Caitlyn] |
+| Corki | [📜][Corki] |
+| Draven | [📜][Draven] |
+| Ezreal | [📜][Ezreal] |
+| Graves | [📜][Graves] |
+| Jhin | [📜][Jhin] |
+| Jinx | [📜][Jinx] |
+| Kalista | [📜][Kalista] |
+| Kog`Maw | [📜][KogMaw] |
+| Lucian | [📜][Lucian] |
+| Miss Fortune | [📜][Miss Fortune] |
+| Sivir | [📜][Sivir] |
+| Tristana | [📜][Tristana] |
+| Twitch | [📜][Twitch] |
+| Varus | [📜][Varus] |
+| Vayne | [📜][Vayne] |
+| Xayah | [📜][Xayah] |
 
 ### MID
 | Nazwa postaci | Link do forum |
 |--|--|
-| Ahri | [рџ“њ][Ahri] |
-| Brand | [рџ“њ][Brand] |
-| Cassiopeia | [рџ“њ][Cassiopeia] |
-| Jayce | [рџ“њ][Jayce] |
-| Karthus | [рџ“њ][Karthus] |
-| Katarina | [рџ“њ][Katarina] |
-| Kayle | [рџ“њ][Kayle] |
-| Kog'Maw | [рџ“њ][KogMaw] |
-| Orianna | [рџ“њ][Orianna] |
-| Ryze | [рџ“њ][Ryze] |
-| Syndra | [рџ“њ][Syndra] |
-| Twisted Fate | [рџ“њ][Twisted Fate] |
-| Vel'Koz | [рџ“њ][VelKoz] |
-| Viktor | [рџ“њ][Viktor] |
-| Xerath | [рџ“њ][Xerath] |
-| Yasuo | [рџ“њ][Yasuo] |
-| Zed | [рџ“њ][Zed] |
-| Zoe | [рџ“њ][Zoe] |
+| Ahri | [📜][Ahri] |
+| Brand | [📜][Brand] |
+| Cassiopeia | [📜][Cassiopeia] |
+| Jayce | [📜][Jayce] |
+| Karthus | [📜][Karthus] |
+| Katarina | [📜][Katarina] |
+| Kayle | [📜][Kayle] |
+| Kog'Maw | [📜][KogMaw] |
+| Orianna | [📜][Orianna] |
+| Ryze | [📜][Ryze] |
+| Syndra | [📜][Syndra] |
+| Twisted Fate | [📜][Twisted Fate] |
+| Vel'Koz | [📜][VelKoz] |
+| Viktor | [📜][Viktor] |
+| Xerath | [📜][Xerath] |
+| Yasuo | [📜][Yasuo] |
+| Zed | [📜][Zed] |
+| Zoe | [📜][Zoe] |
 
 ### TOP
 | Nazwa postaci | Link do forum |
 |--|--|
-| Jayce | [рџ“њ][Jayce] |
-| Jax | [рџ“њ][Jax] |
-| Kayle | [рџ“њ][Kayle] |
-| Nasus | [рџ“њ][Nasus] |
-| Olaf | [рџ“њ][Olaf] |
-| Teemo | [рџ“њ][Teemo] |
-| Urgot | [рџ“њ][Urgot] |
-| Xin Zhao | [рџ“њ][Xin Zhao] |
-| Yasuo | [рџ“њ][Yasuo] |
+| Jayce | [📜][Jayce] |
+| Jax | [📜][Jax] |
+| Kayle | [📜][Kayle] |
+| Nasus | [📜][Nasus] |
+| Olaf | [📜][Olaf] |
+| Teemo | [📜][Teemo] |
+| Urgot | [📜][Urgot] |
+| Xin Zhao | [📜][Xin Zhao] |
+| Yasuo | [📜][Yasuo] |
 
 ### JUNGLER
 | Nazwa postaci | Link do forum |
 |--|--|
-| Kayle | [рџ“њ][Kayle] |
-| Kindred | [рџ“њ][Kindred] |
-| Lee Sin | [рџ“њ][LeeSin] |
-| Master Yi | [рџ“њ][MasterYi] |
-| Xin Zhao | [рџ“њ][Xin Zhao] |
+| Kayle | [📜][Kayle] |
+| Kindred | [📜][Kindred] |
+| Lee Sin | [📜][LeeSin] |
+| Master Yi | [📜][MasterYi] |
+| Xin Zhao | [📜][Xin Zhao] |
 
 ### SUPPORT
 | Nazwa postaci | Link do forum |
 |--|--|
-| Blitzcrank | [рџ“њ][Blitzcrank] |
-| Brand | [рџ“њ][Brand] |
-| Leona | [рџ“њ][Leona] |
-| Lulu | [рџ“њ][Lulu] |
-| Morgana | [рџ“њ][Morgana] |
-| Soraka | [рџ“њ][Soraka] |
-| Thresh | [рџ“њ][Thresh] |
-| Vel'Koz | [рџ“њ][VelKoz] |
+| Blitzcrank | [📜][Blitzcrank] |
+| Brand | [📜][Brand] |
+| Leona | [📜][Leona] |
+| Lulu | [📜][Lulu] |
+| Morgana | [📜][Morgana] |
+| Soraka | [📜][Soraka] |
+| Thresh | [📜][Thresh] |
+| Vel'Koz | [📜][VelKoz] |
 
 [Ahri]: https://goelites.net/index.php?/topic/391-ahri/
 [Ashe]: https://goelites.net/index.php?/topic/4-ashe/
