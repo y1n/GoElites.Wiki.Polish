@@ -77,7 +77,7 @@ Pozwala Ci zmienić nick dla każdego gracza.
 | **Modes**: Most AP | Wybiera cel z największą ilością AP. |
 | **Modes**: Closest | Wybiera cel najbliżej Ciebie. |
 | **Modes**: Near Mouse | Wybiera cel najbliżej Myszki. |
-| **Modes**: LessAttack | TBA |
+| **Modes**: LessAttack | Wybiera cel który zabijesz najszybciej z auto ataków. |
 | **Modes**: LessCast | Wybiera cel który ma najwięcej aktywnych czarów. |
 | **Modes**: Priority list | Wybiera cele w kolejności listy priorytetów. |
 | **Priority list** | Na liście priorytetów - cele z liczbą [1] będą fokusowane na końcu, zaś cele z liczbą [5] na początku. |
@@ -176,8 +176,8 @@ Pozwala Ci zmienić nick dla każdego gracza.
 | **Humanizer settings**: Dont Dodge If Alt-Tab | Wyłącza Evade gdy jesteś na Alt+Tabie. |
 | **Humanizer settings**: Ignore Skillshots Not Visible OnScreen | Zmusza Evade do olewania czarów które zostały rzucone zza twojego ekranu. |
 | **Humanizer settings**: Dont Dodge If Player Is Not Visible OnScreen | Wyłącza unikania gdy twoja postać nie znajduje się na twoim ekranie. |
-| **Humanizer settings**: Ignore FOW Exit | TBA |
-| **Humanizer settings**: Minimal Visiblity Time | TBA |
+| **Humanizer settings**: Ignore FOW Exit | Sprawia, że ignorujesz przeciwnika który ukazał się dopiero Tobie. |
+| **Humanizer settings**: Minimal Visiblity Time | Czas po którym ukazany przeciwnik jest atakowany przez Ciebie. |
 | **Drawing settings**: Line Width | Grubość linii do unikania. |
 | **Drawing settings**: Draw Evade Status | Pokazuje pod twoją postacią czy masz włączone bądź wyłączone Evade. |
 | **Drawing settings**: Draw Evade Point | Pokazuje ścieżkę gdzie unika Twoja postać. |
