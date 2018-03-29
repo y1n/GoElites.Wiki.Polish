@@ -1,5 +1,7 @@
-**Disclaimer!** Poniższy artykuł nie jest wymogiem z którym normalny użytkownik musi się zapoznać, jest on głównie dla ekipy. Jest to nasz punkt odniesienia w stosunku do relacji i traktowania naszych klientów.
-
+<div class="admonition warning">
+<p class="first admonition-title">Disclaimer</p>
+<p class="last">Poniższy artykuł nie jest wymogiem z którym normalny użytkownik musi się zapoznać, jest on głównie dla ekipy. Jest to nasz punkt odniesienia w stosunku do relacji i traktowania naszych klientów.</p>
+</div>
 ---
 
 Tak jak każdy serwis, GoElites mierzy w satysfakcje konsumentów. Składamy się z dwóch oddzielnych zespołów odpowiedzialnych za dwa różne aspekty naszego serwisu: rozwój platformy i reprezentacja społecznościowa - wsparcie. Nie wszyscy ludzie przychodzą głównie dla samego oprogramowania, większość zostaje dla samej społeczności, nawet jeśli przestanie grać w grę dla której to oferujemy nasze oprogramowanie, więc jednym z naszych celów jest zapewnienie miłego pobytu w naszej społeczności. W celu wyjaśnienia jak komunikujemy się z naszą społecznością, chcemy Ci przedstawić następujące zasady:
