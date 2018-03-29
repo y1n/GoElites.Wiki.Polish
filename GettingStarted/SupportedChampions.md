@@ -26,4 +26,4 @@ a.header_link span {
 	color: #fcfcfc;
 }
 </style>
-<div class="good_announcement"><strong>Odwiedź nasze forum, a konkretnie:<a href="https://goelites.net/index.php?/topic/1864-supported-champions-%E6%94%AF%E6%8C%81%E8%8B%B1%E9%9B%84%E5%88%97%E8%A1%A8/">Supported Champions</a> aby dowiedzieć się jakie postacie są wspierane.</strong></div>
+<div class="good_announcement"><strong>Odwiedź nasze forum, a konkretnie: <a href="https://goelites.net/index.php?/topic/1864-supported-champions-%E6%94%AF%E6%8C%81%E8%8B%B1%E9%9B%84%E5%88%97%E8%A1%A8/">Supported Champions</a> aby dowiedzieć się jakie postacie są wspierane.</strong></div>
