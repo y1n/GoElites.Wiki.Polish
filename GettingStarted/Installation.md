@@ -14,7 +14,7 @@ Aby zainstalować GoElites, zakładając że masz już wszystko z listy powyżej
 <div class='square-box'><div class='square-content'><div><span>1</span></div></div></div> Pobierz [GoElites Loader](https://goelites.net/index.php?/forum/17-download-goelites/).<br>
 <div class='square-box'><div class='square-content'><div><span>2</span></div></div></div> Uruchom instalację jako Administrator systemu - i wskaż ścieżkę gdzie GoElites ma zostać zainstalowane.<br>
 <div class="admonition tip" style="margin-bottom: 5px";>
-<p class="first admonition-title">Uwaga**<p>
+<p class="first admonition-title">Uwaga<p>
 <p class="last">W celu uniknięcia problemów z lokalizacją plików i innych niedogodność upewnij się że ścieżka do GoElites zawiera tylko i wyłącznie znaki <strong>A-Z 1-9</strong>.</p>
 </div>
 <div class='square-box'><div class='square-content'><div><span>3</span></div></div></div> Uruchom GoElites **Loader.exe** jako administrator.<br>
