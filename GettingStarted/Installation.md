@@ -8,14 +8,16 @@ Zanim zaczniesz instalować GoElites, proszę upewnij się, że masz wszystko za
 - [Directx June 2010](https://www.microsoft.com/en-us/download/details.aspx?id=8109) (*by nie było żadnych problemów z injectowaniem)
 
 Rzeczy powyżej są absolutnym wymogiem by móc uruchomić GoElites poprawnie. Jeżeli nie posiadasz jakiejkolwiek z tej rzeczy a GoElites Ci się uruchomi pomimo tego - prawdopodobnie będziesz mieć błędy więc proszę upewnij się dwa razy czy posiadasz wszystko z listy na swoim PC.
-
+<hr>
 ## Instalacja GoElites
-Aby zainstalować GoElites, zakładając że masz już wszystko z listy powyżej, musisz podjąć następujące kroki:
-
-1. Pobierz [GoElites Loader](https://goelites.net/index.php?/forum/17-download-goelites/).
-2. Uruchom instalację jako Administrator systemu - i wskaż ścieżkę gdzie GoElites ma zostać zainstalowane.
-**Uwaga**: *W celu uniknięcia problemów z lokalizacją plików i innych niedogodność upewnij się że ścieżka do GoElites zawiera tylko i wyłącznie znaki A-Z / 1-9*.
-3. Uruchom GoElites Loader.exe jako administrator.
-4. Zaloguj się na swoje konto GoElites.
-5. Poczekaj aż loader się zamknie i ukaże się konsola mówiąca ``Waiting for League of Legends.exe``.
-6. Odpal grę (customa najlepiej) i poczekaj aż GoElites się zinjectuje.
+Aby zainstalować GoElites, zakładając że masz już wszystko z listy powyżej, musisz podjąć następujące kroki:</br>
+<div class='square-box'><div class='square-content'><div><span>1</span></div></div></div> Pobierz [GoElites Loader](https://goelites.net/index.php?/forum/17-download-goelites/).<br>
+<div class='square-box'><div class='square-content'><div><span>1</span></div></div></div> Uruchom instalację jako Administrator systemu - i wskaż ścieżkę gdzie GoElites ma zostać zainstalowane.<br>
+<div class="admonition tip" style="margin-bottom: 5px";>
+<p class="first admonition-title">Uwaga**<p>
+<p class="last">W celu uniknięcia problemów z lokalizacją plików i innych niedogodność upewnij się że ścieżka do GoElites zawiera tylko i wyłącznie znaki <strong>A-Z 1-9</strong>.</p>
+</div>
+<div class='square-box'><div class='square-content'><div><span>3</span></div></div></div> Uruchom GoElites **Loader.exe** jako administrator.<br>
+<div class='square-box'><div class='square-content'><div><span>3</span></div></div></div> Zaloguj się na swoje konto GoElites.<br>
+<div class='square-box'><div class='square-content'><div><span>3</span></div></div></div> Poczekaj aż loader się zamknie i ukaże się konsola mówiąca ``Waiting for League of Legends.exe``.<br>
+<div class='square-box'><div class='square-content'><div><span>3</span></div></div></div> Odpal grę (customa najlepiej) i poczekaj aż GoElites się zinjectuje.
