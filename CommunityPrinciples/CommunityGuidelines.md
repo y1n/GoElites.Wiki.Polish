@@ -1,5 +1,5 @@
 <div class="admonition warning">
-<p class="first admonition-title">Warning</p>
+<p class="first admonition-title">Uwaga</p>
 <p class="last">Proszę się zapoznać z tymi zasadami przed używaniem forum. Jeśli zaobserwowałeś kogoś łamiącego jakąkolwiek z zasad - zreportuj go. Niektóre z zasady wchodzą w życie tylko po zreportowaniu.</p>
 </div>
 
